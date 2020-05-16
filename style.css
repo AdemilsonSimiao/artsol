@@ -1,0 +1,152 @@
+﻿body{
+background-image: url("newsletter_img.png");
+background-repeat: no-repeat;
+background-position: right ;
+height: 902px;
+width: 1226px;
+background-color: rgba(0,0,0,0.1);
+}
+
+  #img-6845 {
+  height: 900px;
+  width: 728px;*/
+}
+
+  #group {
+  height: 120px;
+  width: 168px;
+  padding:56px 1048px  32px 64px;
+  }
+
+  #logomarcaoficialsite {
+    font-family: fontawesome;
+    text-decoration: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 37px;
+    letter-spacing: 3px;
+    color: #555555;
+    display: block;
+    position: absolute;
+    }
+    
+ h1 {
+  height: 96px;
+  width: 562px;
+  color: #326BB4;
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 48px;
+  padding: 0px 657px 0px 64px;
+}
+
+h2 {
+  height: 64px;
+  width: 463px;
+  color: #111111;
+  font-family: Montserrat;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+  padding: 40px 753px 40px 64px;
+}
+
+#field-email-enable {
+  height: 48px;
+  width: 463px;
+  padding: 0px 0px 0px 64px;
+}
+
+#field-buttom {
+  height: 48px;
+  width: 323px;
+  border-radius: 0 7px 7px 0;
+  border-color:#FBAD18;
+}
+
+#cta {
+  height: 54px;
+  width: 136px;
+  float: right;
+  border-radius: 0 7px 7px 0;
+  border-color:#FBAD18;
+  background-color: #FBAD18;
+
+}
+
+.roda-pe{
+height: 728px;
+width: 327;
+margin: 0px 0px 0px 0px;
+border: none;
+padding: 0px 0px 0px 0px;
+}
+
+#contact {
+  height: 120px;
+  width: 300px;
+  padding: 146px 26px 0px 64px;
+}
+
+#contato-artsol-org-b {
+  color: #444444;
+  font-family: Montserrat;
+  font-size: 20px;
+  border-radiuns: 1px solid;
+  margin: 4px 4px 4px 16px;
+  padding: 1px 4px 8px 16px;
+  
+}
+
+#icon-email-gray {
+  height: 24px;
+  width: 24px;
+  opacity: 0.75;
+  float: left;
+  margin: 1px 1px 1px 1px;
+  padding: 1px 16px 1px 1px;
+ }
+
+#icon-phone-gray {
+  height: 24px;
+  width: 24px;
+  border-radiuns: 1px solid;
+  float: left;
+  margin: 1px 1px 1px 1px;
+  padding: 8px 16px 1px 1px;
+}
+
+#phone {
+    font-size: 18px;
+  border-radiuns: 1px solid;
+  margin: 1px 1px 1px 1px;
+  padding: 16px 1px 8px 8px;
+}
+
+#social-media-icons {
+  height: 18px;
+  width: 144px;
+  padding: 54px 0px 0px 64px;
+}
+
+#facebook{
+padding: 0px 20px 0px 0px;
+}
+
+#twitter{
+padding: 0px 20px 0px 20px;
+}
+
+#artsol {
+  height: 14px;
+  width: 286px;
+  color: #666666;
+  font-family: "Helvetica Neue";
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14px;
+  padding: 37px 830px 0px 64px;
+}
