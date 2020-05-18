@@ -54,7 +54,7 @@ h2 {
   padding: 40px 753px 40px 64px;
 }
 
-#field-email-enable {
+#fieldEmailEnable {
   height: 48px;
   width: 463px;
   padding: 0px 0px 0px 64px;
@@ -62,15 +62,17 @@ h2 {
 
 #field-buttom {
   height: 48px;
-  width: 323px;
-  border-radius: 0 7px 7px 0;
+  width: 321px;
+  border:solid;
+  border-radius: 7px 0px 0px 7px;
   border-color:#FBAD18;
 }
 
 #cta {
-  height: 54px;
+  height: 56px;
   width: 136px;
   float: right;
+  border:solid;
   border-radius: 0 7px 7px 0;
   border-color:#FBAD18;
   background-color: #FBAD18;
