@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-family: Nunito;
+}
+
+html,
+body {
+margin: auto;
+padding: 0%;
+height: 100vh;
+width: 100vw;
+font-family: "Nunito";
+text-rendering: optimizelegibility;
+-webkit-font-smoothing: antialiased;
+}
+html {
+border: solid 1px #fff;
+font-size: 62.5%;
+}
+body {
+display: flex;
+border: solid 1px #fff;
+font-size: 1.6rem;
+}
+.divGeral {
+display: content;
+width: 100%;
+border: solid 1px #fff;
+padding:0;
+margin:0;
+background-color: #F6F6F6;
+max-width: 144rem;
+}
+.Container1 {
+	box-sizing: content-box;
+	height: 78.0rem;
+	width: 100%;
+	border: solid 1px #fff;
+	padding:0;
+	margin:0;
+	background-color: black;
+}
+.header{
+	width: auto;
+    border: solid 1px #fff;
+    margin: auto;
+    padding: 0;
+    height: 100%;
+}
+.header img {
+
+	width: auto;
+	margin: 20px;
+	float: left;
+	border: solid 1px #fff;
+    
+}
+.navBar{
+	margin-inline-start: auto;
+	border: solid 1px #fff;
+	padding: 0px;
+	width: auto;
+/*	display: flex;*/
+}
+.navBar ul {
+    padding: 0px;
+    width: 80%;
+    border: solid 1px #fff;
+    display: inline-flex;
+}
+.navBar ul li {
+padding: 2% 0% 0% 5%;
+margin: auto;
+list-style: none;
+
+}
+.liEnvolva{
+	text-align: center;
+	height: 50px;
+	width: 187px;
+	border: 2px solid #F8AE00;
+	border-radius: 4px;
+	background-color: #F8AE00;
+	font-weight: 600;
+	margin: auto;
+	text-decoration: none;
+	transition: all 150ms linear 0s;
+	animation-direction: alternate;
+	
+}
+.aEnvolva{
+	margin: auto;
+}
+
+.navBar ul li a {
+padding: 1.1rem;
+margin-inline-start: auto;
+text-decoration: none;
+color: white;
+text-transform: uppercase;
+font-size: 1.4rem;
+transition: all 250ms linear 0s;
+}
+
+.navBar ul li a:hover {
+  background: rgba(255,255,255, 0.15)
+}
+
+.h1-1 {
+	height: 20rem;
+    width: 45rem;;
+    padding: 20px 0px 0px 0px;
+    margin: 15% 0px 0px 30%;
+    border: solid 1px #fff;
+    color: #F4F4F4;
+    font-size: 3.8rem;
+    line-height: 6.4rem;
+    text-align: center;
+}
+	
+
+/*vh
+vw
+auto
+%
+px
+em - multiplica 
+rem multiplica pelo principal
+fr
+repeat auto fit(para grid)
+order
+flex-direction
+diplay block
+absolute
+transform
+opacit
+@media (){}largura de grad*/
