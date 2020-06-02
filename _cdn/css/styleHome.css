@@ -8,13 +8,13 @@
 
 html,
 body {
-	display: flex;
+display: flex;
 margin: 0;
 padding: 0;
-height: 100vh;
-width: 100vw;
+height: 78rem;
+width:auto;
 font-family: "Nunito";
-max-width: 144rem;
+/*max-width: 144rem;*/
 }
 html {
 font-size: 62.5%;
@@ -31,7 +31,7 @@ font-size: 62.5%;
 .Container1{
 	background-image: url(../../_img/HERO-img-Content.png);
 	height: 78rem;
-	width: 144rem;
+	width: auto;
 }
 .header{
 	margin: 0px 6.7rem 0px 9.3rem;
@@ -40,14 +40,14 @@ font-size: 62.5%;
 	
 }
 .navBar{
-	padding-top: 40px;
+	padding-top: 4.0rem;
 	display: flex;
 	height: 7.5rem;
 	width: 128rem;
 }
 .ul{
-	height: 24px;
-	width: 685px;
+	height: 2.4rem;
+	width: 68.5rem;
 	
 }
 .ul li{
@@ -56,8 +56,8 @@ font-size: 62.5%;
 	list-style: none;
 }
 .ul a{
-	padding :0px 65px 0px 0px;
-	font-size: 16px;
+	padding :0px 6.5rem 0px 0px;
+	font-size: 1.6rem;
 	color: #ffffff;
 	text-decoration: none;
 	font-family: "Helvetica Now Display";
@@ -68,17 +68,17 @@ font-size: 62.5%;
   
 }
 .logomarcaoficialsite{
-	margin-right: 280px;
-	height: 75px;
-	width: 108px;
+	margin-right: 28.0rem;
+	height: 7.5rem;
+	width: 10,8rem;
 }
 .divRectangle{
 	padding: 15px 0px 0px 0px;
 	text-align: center;	
-	margin-left: 15px;
+	margin-left: 1.5rem;
 	box-sizing: border-box;
-	height: 50px;
-	width: 187px;
+	height: 5.0rem;
+	width: 18.7rem;
 	border: 2px solid #F8AE00;
 	border-radius: 4px;
 	background-color: #F8AE00;
@@ -86,18 +86,18 @@ font-size: 62.5%;
 .aEnvolva{
 	color: #2E1E00;
     font-family: "Helvetica Now Display";
-    font-size: 16px;
+    font-size: 1.6rem;
     font-weight: bold;
     letter-spacing: 1px;
     text-decoration: none;
 }
 .h1-1{
-	margin: 309px 285px 228px 312px;
-	height: 128px;
-	width: 843px;
+	margin: 30.9rem 28.5rem 22.8rem 31.2rem;
+	height: 12.8rem;
+	width: 84.3rem;
 	color: #F4F4F4;
 	font-family: Nunito;
-	font-size: 48px;
+	font-size: 4.8rem;
 	font-weight: 600;
 	letter-spacing: 0;
 	line-height: 64px;
@@ -105,9 +105,9 @@ font-size: 62.5%;
 }
 /* Container2 */
 .Container2{
-	height: 228rem;
-	width: 144rem;
-	border: solid 5px black;
+	height: 248rem;
+	width: auto;
+	
 }
 /* Bloco 1 ok*/
 .divB1{
@@ -127,42 +127,42 @@ font-size: 62.5%;
 }
 .p-1{
 
-	margin-top: 84px;
+	margin-top: 8.4rem;
 }
 .p-1:hover{
-	width: 200px;
+	width: 20.0rem;
 	border-top: 2px solid #F8AE00;
 }
 .p-2{
 	
-	margin-top: 44px;
+	margin-top: 4.4rem;
 }
 .divB1 h1{
-	height: 112px;
-	width: 843px;
+	height: 11.2rem;
+	width: 84.3rem;
 	color: #2E1E00;
 	font-family: Nunito;
-	font-size: 48px;
+	font-size: 4.8rem;
 	letter-spacing: 0;
-	line-height: 58px;
+	line-height: 5.8rem;
 }
 
 .div-aB1{
 	display: flex;
-	padding-top: 15px;
-	margin-top: 69px;
+	padding-top: 1.5rem;
+	margin-top: 6.9rem;
 	box-sizing: border-box;
-	height: 58px;
-	width: 298px;
+	height: 5.8rem;
+	width: 29.8rem;
 	border: 2px solid #F8AE00;
 	border-radius: 4px;
 }
 .div-aB1 a{
-	 height: 56px;
-  width: 272px;
+	 height: 5.6rem;
+  width: 27.2rem;
   color: #F8AE00;
   font-family: "Helvetica Now Display";
-  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 500;
   letter-spacing: 0.5px;
   line-height: 26px;
@@ -172,32 +172,32 @@ text-decoration: none;
 /* Bloco 2*/
 .divB2{
 	columns: 4;
-	margin: 0px 80px 0px 80px;
-	height: 578px;
-	width: 1280px;
+	margin: 0px 8.0rem 0px 8.0rem;
+	height: 57.8rem;
+	width: 128.0rem;
 }
 .divB2 li{
 	box-shadow: 0 4px 16px 0 rgba(0,0,0,0.1);
-	margin-right: 32px;
-	height: 578px;
-	width: 296px;
+	margin-right: 3.2rem;
+	height: 57.8rem;
+	width: 29.6rem;
 	list-style: none;
 }
 
 .divB2 img{
 	
-	margin: 24px 106px 0px 106px;
-	height: 104px;
-	width: 104px;
+	margin: 2.4rem 10.6rem 0px 10.6rem;
+	height: 10.4rem;
+	width: 10.4rem;
 }
 .divB2 h3{
 	margin: 29px 51px 0px 51px;
-	height: 80px;
-	width: 192px;
+	height: 8.0rem;
+	width: 19.2rem;
 	transform: rotate(0.1deg);
 	color: #2E1E00;
 	font-family: Nunito;
-	font-size: 32px;
+	font-size: 3.2rem;
 	font-weight: 600;
 	letter-spacing: 0;
 	line-height: 42px;
@@ -206,23 +206,23 @@ text-decoration: none;
 .divB2 p{
 	
 	margin: 26px 25px 0px 25px;
-	height: 166px;
-	width: 240px;
+	height: 16.6rem;
+	width: 24.0rem;
 	color: #2E1E00;
 	font-family: "Helvetica Now Display";
-	font-size: 16px;
+	font-size: 1.6rem;
 	letter-spacing: 0;
 	line-height: 24px;
 	text-align: center;
 }
 .divB2 a{
-	margin: 50px 105px 0px 105px;
+	margin: 5.0rem 10.5rem 0px 10.5rem;
 	text-decoration: none;
-	height: 56px;
-	width: 168.35px;
+	height: 5.6rem;
+	width: 16.8rem;
 	color: #F8AE00;
 	font-family: "Helvetica Now Display";
-	font-size: 18px;
+	font-size: 1.8rem;
 	font-weight: 500;
 	letter-spacing: 0.5px;
 	line-height: 26px;
@@ -230,36 +230,37 @@ text-decoration: none;
 	display: -webkit-box;
 }
 /* Bloco 3*/
-.divImg{
+.divB3Img{
+	margin: 6.4rem 0px 0px 0px;
 	display: inline-block;
 	position: relative;
-	height: 619px;
-	width: 1440px;
+	height: 61.9rem;
+	width: 140rem;
 	columns: 2;
 }
 
 .img_Left{
-	height: 572px;
-	width: 710px;
+	height: 57.2rem;
+	width: 71.0rem;
 	margin: 20px 0px 0px 0px;
 }
 .ImgBlueLeft{
 	/*contain: paint;*/
-	height: 619px;
-	width: 790px;
+	height: 61.9rem;
+	width: 79.0rem;
 	margin: 0px 0px 0px 0px;
 }
 .img_Right{
-	height: 572px;
-	width: 705px;
-	margin: 20px 0px 0px 0px;
+	height: 57.2rem;
+	width: 70.5rem;
+	margin: 2.0rem 0px 0px 0px;
 	mix-blend-mode: soft-light;
 }
 
 .ImgBlueRight{
 	/*contain: paint;*/
-	height: 619px;
-	width: 800px;
+	height: 61.9rem;
+	width: 80.0rem;
 	margin: -2px 0px 0px -95px;
 }
 
@@ -267,52 +268,160 @@ text-decoration: none;
 	height: 619px;
 	width: 810px;
 }*/
-.divImg h3{
-	height: 54px;
-	width: 371px;
+.divB3Img h3{
+	height: 5.4rem;
+	width: 37.1rem;
 	color: #F4F4F4;
 	font-family: Nunito;
-	font-size: 40px;
+	font-size: 4.0rem;
 	font-weight: 600;
 	letter-spacing: 0;
 	line-height: 54px;
 }
 .ImgH3Direito{
 	position: inherit;
-	
-	margin: -350px 0px 0px 930px;
-	
+	margin: -350px 0px 0px 93.0rem;
 }
 .ImgH3Esquerdo{
 	position: absolute;
-	
-	margin: 229px 0px 0px 78px;
-	
+	margin: 22.9rem 0px 0px 7.8rem;
 }
-.divImg p{
-	height: 103px;
-	width: 437px;
+.divB3Img p{
+	height: 10.3rem;
+	width: 43.7rem;
 	color: #F4F4F4;
 	font-family: "Helvetica Now Display";
-	font-size: 18px;
+	font-size: 1.8rem;
 	font-weight: 500;
 	letter-spacing: 0;
 	line-height: 32px;
 }
 .ImgPEsquerdo{
-		position: absolute;
-	margin: 290px 0px 0px 78px;
+	position: absolute;
+	margin: 29.0rem 0px 0px 7.8rem;
 }
 .ImgPDireito{
-		position: inherit;
-	margin: 0px 0px 0px 930px;
+	position: inherit;
+	margin: 0px 0px 0px 93.0rem;
 	
 }
 
 /* Bloco 4*/
 
+.divB4{
+	height: 79.4rem;
+	width: 144.0rem;
+}
+.divB4-1{
+	height: 27.4rem;
+	width: 84.3rem;
+	margin: 14.4rem 0px 0px 31.2rem;
+}
+.divB4-1 h1{
+	height: 4.8rem;
+	width: 84.3rem;
+	color: #2E1E00;
+	font-family: Nunito;
+	font-size: 4.0rem;
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 48px;
+	text-align: center;
+}
+.divB4-1 p{
+	margin: 0px 0px 0px 7.7rem;
+	height: 4.8rem;
+	width: 68.8rem;
+	color: #2E1E00;
+	font-family: "Helvetica Now Display";
+	font-size: 1.6rem;
+	letter-spacing: 0;
+	line-height: 24px;
+	text-align: center;
+}
+.divB4a{
+	padding: 15px 0px 0px 0px;
+	margin: 82px 0px 0px 19.6rem;
+	box-sizing: border-box;
+	height: 5.8rem;
+	width: 29.8rem;
+	border: 2px solid #F8AE00;
+	border-radius: 4px;
+	text-align: center;
+}
+.divB4a a{
+	height: 5.6rem;
+	width: 27.2rem;
+	color: #F8AE00;
+	font-family: "Helvetica Now Display";
+	font-size: 1.8rem;
+	font-weight: 500;
+	letter-spacing: 0.5px;
+	line-height: 26px;
+	text-decoration: none;
+}
+.divB4-2{
+	
+	margin: 0px 0px 0px -50.0rem;
+	height: 23.3rem;
+	width: 140.0rem;
+}
+.divB4-2 p{
+	margin: 6.4rem 0px 0px 8.0rem;
+	height: 2.4rem;
+	width: 16.1rem;
+	color: #2E1E00;
+	font-family: "Helvetica Now Display";
+	font-size: 1.6rem;
+	font-weight: 500;
+	letter-spacing: 0.5px;
+	line-height: 24px;
+}
+.divB4-2 h3{
+	margin: 1rem 0px -50px 7rem;
+    height: 5.6
+	height: 5.6rem;
+	width: 32.7rem;
+	color: #2E1E00;
+	font-family: Nunito;
+	font-size: 5.6rem;
+	letter-spacing: 0;
+	line-height: 56px;
+}
+.input1{
+	margin: -25rem 0px 0px 62.0rem;
+    color: #363738;
+    font-family: "Helvetica Now Display";
+    font-size: 2.4rem;
+    height: 7.5rem;
+    width: 73.5rem;
+	border: hidden;
+    border-bottom: 2px solid #A0A0A0;
+}
+.input2{
+	height: 3.2rem;
+	width: 3.2rem;
+}
+.Error{
+	display: none;
+	margin: 5rem 0px 0px 37.0rem;
+	height: 1.2rem;
+	width: 62.3rem;
+	color: #E52B24;
+	font-family: "Helvetica Now Display";
+	font-size: 1.4rem;
+	letter-spacing: 0;
+	line-height: 12px;
+}
+.hr1{
+	border-bottom: 2px solid black;
+    margin: 18.0rem 0px 0px 0px;
+    width: 143rem;
+}
+
 /* Container3 */
+
 .Container3{
 	height: 36.8rem;
-	width: 144rem;
-}
+	width: auto;
+} 
